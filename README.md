@@ -7,7 +7,8 @@
     - How it works 
         This Program work from execute python files 
 
-   - Python Modules
+###Python Modules
+
    
 | No. | Module | Functions           |
 |-----|--------|----------------------|
@@ -16,7 +17,9 @@
 | 3.  | Threading | concurrent program |
 | 4.  | Tkinter | graphic user interface |
 
-    - Functions and Execution
+
+###Functions and Execution
+
     
 | No. | Functions | Execution |
 |-----|-----------|-----------|
@@ -24,8 +27,11 @@
 | 2.  | Start with set work time | ```python3 pomodoro.py --work [minutes]``` |
 | 3.  | Start with set work time and break time | ```python3 pomodoro.py --work [minutes] --short [minutes] --long [minutes]``` |
 | 4.  | start with set work time, break time and cycles |```python3 pomodoro.py --work [minutes] --short [minutes] --long [minutes] --cycles [int]``` |
-| 5.  | Control Pause | ```p``` |
-| 6.  | Control Resume | ```r``` |
-| 7.  | Control Exit | ```q``` |
+| 5.  | Control Pause | ```p``` in command line version |
+| 6.  | Control Resume | ```r``` in command line version|
+| 7.  | Control Exit | ```q``` in command line version|
 | 8.  | Start GUI | ```python3 pomodoro_gui.py``` |
+
+
+
 
