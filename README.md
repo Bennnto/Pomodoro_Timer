@@ -6,8 +6,8 @@
 
     - How it works 
         This Program work from execute python files 
-    - Modules 
 
+   - Modules 
 | No. | Module | Functions           |
 |-----|--------|----------------------|
 | 1.  | sys    | stdin and stdout |
