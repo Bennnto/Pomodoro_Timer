@@ -7,7 +7,8 @@
     - How it works 
         This Program work from execute python files 
 
-   - Modules 
+   - Python Modules
+   
 | No. | Module | Functions           |
 |-----|--------|----------------------|
 | 1.  | sys    | stdin and stdout |
@@ -15,7 +16,7 @@
 | 3.  | Threading | concurrent program |
 | 4.  | Tkinter | graphic user interface |
 
-    - Functions
+    - Functions and Execution
     
 | No. | Functions | Execution |
 |-----|-----------|-----------|
