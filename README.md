@@ -32,6 +32,7 @@
 | 7.  | Control Exit | ```q``` in command line version|
 | 8.  | Start GUI | ```python3 pomodoro_gui.py``` |
 
+[Example](https://github.com/user-attachments/assets/2a6932bd-5864-4aaa-a06e-9b937ee96fc3)
 
 
 
